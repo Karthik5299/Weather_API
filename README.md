@@ -58,9 +58,6 @@ Uses fetch to call the OpenWeatherMap API with the provided city name and API ke
 - Displays the weather div and hides the error div.
 
 
-## 🔗 Links
-- [WEATHER DASHBOARD](https://karthik5299.github.io/CODTECH-Task2/)
-
 
 
 
