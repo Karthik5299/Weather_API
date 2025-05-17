@@ -59,5 +59,5 @@ Uses fetch to call the OpenWeatherMap API with the provided city name and API ke
 
 
 
-[OpenWeatherMap]([https://openweathermap.org/](https://karthik5299.github.io/Weather_API/))
+[OpenWeatherMap](https://karthik5299.github.io/Weather_API/)
 
